@@ -17,3 +17,11 @@ This week, I focused heavily on project setup and initial structure:
 I really think I am learning more about repositories now.
 
 I really think this will be a good milestone.
+
+
+       Workflow Summary
+Work Locally: Create and modify files in your local dev and docs folders.
+Commit Regularly: After completing a small piece of work (e.g., "added initial HTML structure", "finished the documentation file"), add and commit your changes.
+Push to GitHub: Regularly push your local commits to your remote repository on github.com.
+Manage Issues on GitHub: Log in to github.com and close the relevant issues as the associated code/documentation is completed and pushed.
+Update README: Make a final commit to update your main README.md file with your progress summary.
