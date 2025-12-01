@@ -13,3 +13,5 @@ This week, I focused heavily on project setup and initial structure:
 *   **Challenges:** Getting used to the specific folder structure requirements took some time.
 *   **Next Steps:** Next week, I plan to start integrating CSS for styling and work on the next set of requirements.
 *   **Status:** All issues related to Milestone 1 have been closed on the Issues tracker.
+
+I really think I am learning more about repositories now.
