@@ -1,21 +1,6 @@
-# Docs.
+# Code
 
-This folder is for miscellaneous documentation. 
+The dev folder is for code worked on in this course.
 
-It's common for repositories to contain documentation provided by the developers or team working on projects together.   
-
-In this class you may be asked to work on documentation that can be stored in this folder. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. For the first milestone, add your portfolio assignment from the Interfaces & Usability course.
+2. For future milestones, this is where to add the main project folder.
