@@ -15,3 +15,5 @@ This week, I focused heavily on project setup and initial structure:
 *   **Status:** All issues related to Milestone 1 have been closed on the Issues tracker.
 
 I really think I am learning more about repositories now.
+
+I really think this will be a good milestone.
